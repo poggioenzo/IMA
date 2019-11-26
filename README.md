@@ -1,4 +1,4 @@
-# MakeMeLaught
+# MakeMeLaugh
 
 *UniGe Project*
 
